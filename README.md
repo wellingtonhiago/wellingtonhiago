@@ -1,4 +1,4 @@
-# Olá, eu sou Wellington, Desenvolvedor júnior formado em Engenharia Civil e este é meu portfólio
+# Olá!!
 
 <div align="center">
   <a href="https://github.com/wellingtonhiago">
