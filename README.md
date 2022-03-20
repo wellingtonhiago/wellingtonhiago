@@ -1,7 +1,7 @@
 # Olá!! Seja bem-vindo ao meu GitHub
 ## Meus projetos:
 ### <code>[Simulador de Partidas - Projeto da Sportheca](https://github.com/wellingtonhiago/Sportheca-Simulador-Partidas)</code>
-### <code>[Projetos da Bootcamp Sportheca](https://github.com/wellingtonhiago/Sportheca-Bootcamps)</code>
+### <code>[Projetos da Bootcamp Sportheca](https://github.com/wellingtonhiago/Sportheca-Bootcamp)</code>
 
 ## Meu Perfil
 <div align="center">
