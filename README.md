@@ -1,5 +1,5 @@
 # Olá!! Seja bem-vindo ao meu GitHub
-## Meus projetos:
+## Principais projetos:
 ### <code>[Criação de um Banco](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)</code>
 ### <code>[Cópia de um Bootcamp](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)</code>
 ### <code>[Simulador de Partidas](https://github.com/wellingtonhiago/Sportheca-Simulador-Partidas)</code>
