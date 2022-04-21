@@ -1,4 +1,11 @@
 # Olá!! Seja bem-vindo ao meu GitHub
+
+<a href="https://www.linkedin.com/in/wellingtonhcs/" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:wellingtonhiago2.0@gmail.com" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 ## Principais projetos:
 ### <code>[Criação de um Banco](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)</code>
 ### <code>[Cópia de um Bootcamp](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)</code>
