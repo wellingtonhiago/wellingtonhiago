@@ -7,9 +7,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Principais projetos:
-### <code>[Criação de um Banco](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)</code>
-### <code>[Cópia de um Bootcamp](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)</code>
-### <code>[Simulador de Partidas](https://github.com/wellingtonhiago/Sportheca-Simulador-Partidas)</code>
+### <code>[Jogo da Forca em python](https://github.com/wellingtonhiago/Jogo_da_forca)</code>
+### <code>[Jogo da velha em python](https://github.com/wellingtonhiago/JogoDaVelhaProjeto)</code>
+### <code>[Criação de um Banco em java](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)</code>
+### <code>[Cópia de um Bootcamp em java](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)</code>
+### <code>[Simulador de Partidas em Java e Kotlin](https://github.com/wellingtonhiago/Sportheca-Simulador-Partidas)</code>
 
 ## Meu Perfil
 <div align="center">
