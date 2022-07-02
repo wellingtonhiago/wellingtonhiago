@@ -15,6 +15,7 @@
 <br/> [Cartão de parabéns no android em kotlin](https://github.com/wellingtonhiago/Android-Happy-Birthday)
 <br/> [Projeto de limonada no android em kotlin](https://github.com/wellingtonhiago/android-basics-kotlin-lemonade-app)
 <br/> [Simulador de um dado no android em kotlin](https://github.com/wellingtonhiago/Android-Dice-Roller)
+<br/> [Calculadora de gorjeta no android em kotlin](https://github.com/wellingtonhiago/Android-Tip-Time)
 
 
 ## Meu Perfil
