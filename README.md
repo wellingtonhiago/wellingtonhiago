@@ -20,10 +20,6 @@
 ### Java
 [Criação de um Banco em java](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)
 <br/> [Cópia de um Bootcamp em java](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)
-### Python
-[Jogo da Forca em python](https://github.com/wellingtonhiago/Jogo_da_forca)
-<br/> [Jogo da velha em python](https://github.com/wellingtonhiago/JogoDaVelhaProjeto)
-
 
 ## Meu Perfil
 <div>
