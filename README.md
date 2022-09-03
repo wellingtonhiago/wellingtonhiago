@@ -20,6 +20,8 @@
 ### Java
 [Criação de um Banco em java](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)
 <br/> [Cópia de um Bootcamp em java](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)
+<br/> [Simulador de Partidas em Java e Kotlin](https://github.com/wellingtonhiago/Sportheca-Simulador-Partidas)
+<br/> [App de notícias de futebol feminino no android](https://github.com/wellingtonhiago/Soccer-News-Original)
 
 ## Meu Perfil
 <div>
