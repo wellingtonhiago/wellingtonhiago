@@ -1,4 +1,6 @@
-# Olá!! Seja bem-vindo ao meu GitHub
+### Profissional com 5 anos de carreira como Engenheiro Civil, durante esses anos trabalhei e atuei na maior parte do tempo desenvolvendo projetos para a construção civil.
+### Toda a experiência me propocionou a capacidade de ser comunicativo, proativo, adaptável, analítico e focado.
+### Desenvolvedor Java, kotlin e Android com foco em desenvolvimento backend com conhecimento em cloud AWS (em desenvolvimento) e metodologia ágil (em desenvolvimento)
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/wellingtonhcs/" alt="linkedin" target="_blank"> 
