@@ -1,4 +1,4 @@
-### Desenvolvedor Java, kotlin e Android com foco em desenvolvimento backend com conhecimento em cloud AWS (em desenvolvimento), metodologia ágil (em desenvolvimento) e inglês básico/intermediário
+### Desenvolvedor Java, kotlin e Android com foco em desenvolvimento backend com conhecimento em cloud AWS (em desenvolvimento), metodologia ágil (em desenvolvimento) com inglês básico/intermediário
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/wellingtonhcs/" alt="linkedin" target="_blank"> 
