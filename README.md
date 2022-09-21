@@ -8,17 +8,13 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Principais projetos:
-### Kotlin
+### Kotlin nativo, lado do servidor
 [Blockchain em kotlin (Em desenvolvimento)](https://github.com/wellingtonhiago/Blockchain-JetBrains)
 <br/> [Lista De Tarefas em kotlin](https://github.com/wellingtonhiago/ListaDeTarefasJetbrains/tree/main)
 <br/> [Processador De Matriz Numérica em Kotlin](https://github.com/wellingtonhiago/ProcessadorDeMatrizNumerica)
 <br/> [Técnica de processamento de imagem em kotlin](https://github.com/wellingtonhiago/Seam-Carving-Kotlin/tree/main)
 <br/> [Software de busca e pesquisa em kotlin](https://github.com/wellingtonhiago/Motor-de-busca)
-<br/> [Simulador de Partidas em Java e Kotlin](https://github.com/wellingtonhiago/Sportheca-Simulador-Partidas)
-<br/> [Cartão de parabéns no android em kotlin](https://github.com/wellingtonhiago/Android-Happy-Birthday)
-<br/> [Projeto de limonada no android em kotlin](https://github.com/wellingtonhiago/android-basics-kotlin-lemonade-app)
-<br/> [Simulador de um dado no android em kotlin](https://github.com/wellingtonhiago/Android-Dice-Roller)
-<br/> [Calculadora de gorjeta no android em kotlin](https://github.com/wellingtonhiago/Android-Tip-Time)
+
 ### Java
 [Criação de um Banco em java](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)
 <br/> [Cópia de um Bootcamp em java](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)
