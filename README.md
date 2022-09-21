@@ -9,8 +9,8 @@
 
 ## Principais projetos:
 ### Kotlin
-[Lista De Tarefas em kotlin](https://github.com/wellingtonhiago/ListaDeTarefasJetbrains/tree/main)
-<br/> [Blockchain em kotlin (Em desenvolvimento)](https://github.com/wellingtonhiago/Blockchain-JetBrains)
+[Blockchain em kotlin (Em desenvolvimento)](https://github.com/wellingtonhiago/Blockchain-JetBrains)
+<br/> [Lista De Tarefas em kotlin](https://github.com/wellingtonhiago/ListaDeTarefasJetbrains/tree/main)
 <br/> [Processador De Matriz Numérica em Kotlin](https://github.com/wellingtonhiago/ProcessadorDeMatrizNumerica)
 <br/> [Técnica de processamento de imagem em kotlin](https://github.com/wellingtonhiago/Seam-Carving-Kotlin/tree/main)
 <br/> [Software de busca e pesquisa em kotlin](https://github.com/wellingtonhiago/Motor-de-busca)
