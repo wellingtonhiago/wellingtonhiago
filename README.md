@@ -10,6 +10,7 @@
 ## Principais projetos:
 ### Kotlin nativo, lado do servidor
 [Blockchain em kotlin (Em desenvolvimento)](https://github.com/wellingtonhiago/Blockchain-JetBrains)
+<br/> [Análise binária de arquivos Git](https://github.com/wellingtonhiago/GitInternals)
 <br/> [Lista De Tarefas em kotlin](https://github.com/wellingtonhiago/ListaDeTarefasJetbrains/tree/main)
 <br/> [Processador De Matriz Numérica em Kotlin](https://github.com/wellingtonhiago/ProcessadorDeMatrizNumerica)
 <br/> [Técnica de processamento de imagem em kotlin](https://github.com/wellingtonhiago/Seam-Carving-Kotlin/tree/main)
