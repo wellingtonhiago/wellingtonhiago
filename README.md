@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Principais projetos:
-### Kotlin nativo, lado do servidor
+### Kotlin
 [Blockchain em kotlin (Em desenvolvimento)](https://github.com/wellingtonhiago/Blockchain-JetBrains)
 <br/> [Análise binária de arquivos Git](https://github.com/wellingtonhiago/GitInternals)
 <br/> [Lista De Tarefas em kotlin](https://github.com/wellingtonhiago/ListaDeTarefasJetbrains/tree/main)
