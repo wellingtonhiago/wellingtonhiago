@@ -17,7 +17,7 @@
 <br/> [Software de busca e pesquisa em kotlin](https://github.com/wellingtonhiago/Motor-de-busca)
 
 ### Java
-[Plataforma de compartilhamento de código em Java utilizando Spring Boot](https://github.com/wellingtonhiago/PlataformaDeCodigos)
+[Plataforma de compartilhamento de códigos em Java utilizando Spring Boot (Em desenvolvimento)](https://github.com/wellingtonhiago/PlataformaDeCodigos)
 <br/> [Criação de um Banco em java](https://github.com/wellingtonhiago/Projeto-Banco-Digital-Innovation-One)
 <br/> [Cópia de um Bootcamp em java](https://github.com/wellingtonhiago/Projeto-Copia-Bootcamp-Digital-Innovation-One)
 
