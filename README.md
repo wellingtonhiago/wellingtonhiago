@@ -29,7 +29,3 @@
 <br/> [Calculadora de gorjeta no android em kotlin](https://github.com/wellingtonhiago/Android-Tip-Time)
 <br/> [App de notícias de futebol feminino no android](https://github.com/wellingtonhiago/Soccer-News-Original)
 
-## Meu Perfil
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonhiago&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
