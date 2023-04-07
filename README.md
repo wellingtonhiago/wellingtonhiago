@@ -1,4 +1,4 @@
-### Desenvolvedor Java e kotlin com foco em desenvolvimento backend no framework Spring Boot com conhecimento em HTML, CSS, banco de dados MySQL, MongoDB, metodologia ágil
+### Desenvolvedor Java e kotlin com foco em desenvolvimento backend no framework Spring Boot com conhecimento em HTML, CSS, banco de dados MySQL, MongoDB e metodologia ágil
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/wellingtonhcs/" alt="linkedin" target="_blank"> 
