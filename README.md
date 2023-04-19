@@ -12,5 +12,6 @@
 [CRUD de e-commerce com Spring Boot e MongoDB](https://github.com/wellingtonhiago/ecommerce-projeto)
 
 ### Java
+[CRUD de Biblioteca com API viacep em Java utilizando Spring Boot e MongoDB Atlas](https://github.com/wellingtonhiago/crud-viacep)
 [CRUD de uma plataforma de compartilhamento de códigos em Java utilizando Spring Boot](https://github.com/wellingtonhiago/PlataformaDeCodigos)
 
